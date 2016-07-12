@@ -17,4 +17,4 @@ disparity.py
 
 	compute disparity map
 	
-In folder disparity1, disparity2, and disparity3, there are 3 sets of input files with its rectify.py and disparity.py
+In folder disparity1, disparity2, and disparity3, there are 3 sets of input files with its rectify.py and disparity.py. They should be copied to root folder to run each set.
